@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakshith22-glitch(Rakshith Alfred)
 - 👀 I’m a Frontend web application developer
-- 🌱 I’m currently learning Backend web application development 
+- 🌱 I’m currently learning Backend development 
 - 📫 How to reach me @ (rakshith22@outlook.com)
 
 <!---
