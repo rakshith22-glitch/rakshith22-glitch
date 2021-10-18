@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rakshith22-glitch(Rakshith Alfred)
-- 👀 I’m a Frontend web application developer
-- 🌱 I’m currently learning Backend development 
+- 👋 Hi, I’m Rakshith Alfred
+- 👀 I’m a Full Stack web application developer
+- 🌱 I’m currently working as a fullstak developer @ Idelji (Santa Monica, CA)
 - 📫 You can reach me @ (rakshith22@outlook.com)
 
 <!---
