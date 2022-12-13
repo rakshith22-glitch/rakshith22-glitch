@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakshith Alfred
-- 🌱 I’m currently working as a fullstak developer @ Idelji (Santa Monica, CA)
+- 🌱 I’m a FULL STACK WEB DEVELOPER (Santa Monica, CA)
 - 📫 You can reach me @ (rakshith22@outlook.com)
 
 <!---
